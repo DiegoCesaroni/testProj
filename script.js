@@ -6,7 +6,7 @@ function CalcolaFattoriale()
 	
 	if (numero < 0)
 	{
-		fattoriale = "Il numero deve essere positivo!";  //commento di prova 23 3 2023 (dal main) (versione branch 2)
+		fattoriale = "Il numero deve essere positivo!";  //commento di prova 23 3 2023 (dal main) (versione branch 2 experimental)
 	}
 	else
 	{
